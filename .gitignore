@@ -1,0 +1,7 @@
+.vscode
+.idea
+.DS_Store
+xlsx.test
+*.swp
+coverage.txt
+*.exe
